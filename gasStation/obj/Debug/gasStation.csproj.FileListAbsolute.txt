@@ -1,0 +1,2 @@
+c:\users\igor\documents\visual studio 2015\Projects\gasStation\gasStation\bin\Debug\gasStation.exe.config
+D:\kpi\OOP\course\gasStation\gasStation\bin\Debug\gasStation.exe.config
