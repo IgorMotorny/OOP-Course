@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gasStation {
+namespace GasStation {
     class Program {
-        static void Main(string[] args) { 
+        
+        static void Main(string[] args) {
+            ScreenManager screenManager = new ScreenManager();
+            screenManager.GoToScreen("Main");
         }
+      
     }
 }

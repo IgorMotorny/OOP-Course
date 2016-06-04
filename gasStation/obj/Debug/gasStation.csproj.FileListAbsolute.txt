@@ -1,2 +1,7 @@
 c:\users\igor\documents\visual studio 2015\Projects\gasStation\gasStation\bin\Debug\gasStation.exe.config
 D:\kpi\OOP\course\gasStation\gasStation\bin\Debug\gasStation.exe.config
+D:\kpi\OOP\course\gasStation\gasStation\obj\Debug\gasStation.csprojResolveAssemblyReference.cache
+D:\kpi\OOP\course\gasStation\gasStation\bin\Debug\gasStation.exe
+D:\kpi\OOP\course\gasStation\gasStation\bin\Debug\gasStation.pdb
+D:\kpi\OOP\course\gasStation\gasStation\obj\Debug\gasStation.exe
+D:\kpi\OOP\course\gasStation\gasStation\obj\Debug\gasStation.pdb

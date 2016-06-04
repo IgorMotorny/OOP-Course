@@ -1,0 +1,9 @@
+D:\kpi\OOP\course\gasStation\gasStationTest\bin\Debug\gasStationTest.dll
+D:\kpi\OOP\course\gasStation\gasStationTest\bin\Debug\gasStationTest.pdb
+D:\kpi\OOP\course\gasStation\gasStationTest\bin\Debug\gasStation.exe
+D:\kpi\OOP\course\gasStation\gasStationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\kpi\OOP\course\gasStation\gasStationTest\bin\Debug\gasStation.pdb
+D:\kpi\OOP\course\gasStation\gasStationTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\kpi\OOP\course\gasStation\gasStationTest\obj\Debug\GasStationTest.csprojResolveAssemblyReference.cache
+D:\kpi\OOP\course\gasStation\gasStationTest\obj\Debug\gasStationTest.dll
+D:\kpi\OOP\course\gasStation\gasStationTest\obj\Debug\gasStationTest.pdb
