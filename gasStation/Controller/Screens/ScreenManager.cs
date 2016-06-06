@@ -29,7 +29,6 @@ namespace GasStation {
                     _currentScreen = null;
                     OperationController currentScreen = new OperationController(_model, _controller);
                     currentScreen.InitScreen();
-                    _model.Reset();
                     break;
                 case "Authentication":
                     _currentScreen = new AuthenticationScreenController();
